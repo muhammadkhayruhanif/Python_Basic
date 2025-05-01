@@ -21,3 +21,10 @@ __pycache__ merupakan penyimpanan bytecode atau code yang lebih mendekati bahasa
 sehingga program yang dijalankan lebih cepat, apabila dihapus maka pada proses run selanjutnya
 akan dibuat kembali secara otomatis
 """
+
+from sains.belajar_init import scientific
+hasil_sin = scientific.sinus(30)
+print(f"fungsi sin = {hasil_sin}")
+
+#from sains import *
+#hasil_cosinus = belajar_init.scientific.cosinus(30)
