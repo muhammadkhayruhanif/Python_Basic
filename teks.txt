@@ -1,0 +1,7 @@
+ini baris pertama
+ini baris kedua
+ini baris ketiga
+ini baris keempat
+ini baris kelima
+ini baris keenam
+ini baris ketujuh
