@@ -1,0 +1,9 @@
+data dua baris-1
+data dua baris-2
+tambah lagi dengan append
+data dua baris-1
+data dua baris-2
+tambah lagi dengan append
+data dua baris-1
+data dua baris-2
+tambah lagi dengan append
